@@ -18,8 +18,8 @@ declare -A ssl_versions_output_dir=(
     ["ssl_3"]="3*"
 )
 declare -A ssl_versions_ndk=(
-    ["1.1.1w"]="$HOME/android/ndk/21.4.7075529"
-    ["3.1.6"]="$HOME/android/ndk/25.2.9519653"
+    ["1.1.1w"]="$HOME/Android/Sdk/ndk/26.1.10909125"
+    ["3.5.0"]="$HOME/Android/Sdk/ndk/26.1.10909125"
 )
 declare -A architectures=(
     ["x86_64"]="x86_64"
